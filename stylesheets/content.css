@@ -64,7 +64,7 @@ p{
     .pattern{
         width: 73.5vw;
         height: 117vw;
-        background: url(../img/Group\ 711\ —\ копия.png);
+        background: url(../img/Group\ 711.png);
         margin-top: 28vw;
         margin-left: 24vw;
         animation: change2 1s steps(1) infinite;
@@ -127,7 +127,7 @@ width: 23vw;
 height: 38vw;
 position: absolute;
 
-background: url("../img/Group\ 696\ —\ копия.png");
+background: url("../img/Group\ 696.png");
 animation: change 1s steps(1) infinite;
 
 }
@@ -207,7 +207,7 @@ animation: change 1s steps(1) infinite;
         width: 1000vw;
         height: 41vw;
         position: absolute;
-        background-image: url("../img/Group\ 717\ —\ копия.png");
+        background-image: url("../img/Group\ 717.png");
         animation: grayback  10s linear infinite ;
     }
     
@@ -257,7 +257,7 @@ background-color: #2228FA ;
     height: 5.5vw;
     margin-top: 4%;
     position: absolute;
-    background-image: url(../img/Group\ 722\ —\ копия.png);
+    background-image: url(../img/Group\ 722.png);
     animation: container4 15s linear infinite;
 }
 @keyframes container4{
@@ -277,7 +277,7 @@ background-color: #2228FA ;
     height: 18vw;
     z-index: 50;
     position: absolute;
-    background: url(../img/Group\ 723\ —\ копия.png);
+    background: url(../img/Group\ 723.png);
     animation: setka 1s steps(1) infinite;
 }
 
@@ -307,7 +307,7 @@ background-color: #2228FA ;
  height: 44vw;
  z-index: 60;
     position: absolute;
-    background: url(../img/Group\ 732\ —\ копия.png);
+    background: url(../img/Group\ 732.png);
     animation: cubetouch 1s steps(1) infinite;
 
 }
@@ -359,7 +359,7 @@ height: 58.44vw;
     position: absolute;
     width: 59.2vw;
 height: 66vw;
-    background: url(../img/Group\ 739\ —\ копия.png);
+    background: url(../img/Group\ 739.png);
     animation: pattern2 1s steps(1) infinite;
     
 }
@@ -393,7 +393,7 @@ height: 66vw;
 .setka2{
     width: 100%;
     height: 368px;
-    background: url(../img/Group\ 746\ —\ копия.png);
+    background: url(../img/Group\ 746.png);
     animation: setka2 1s steps(1) infinite;
 
 }
